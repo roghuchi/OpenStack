@@ -44,6 +44,6 @@ for ID in ListOfInstances:
 EmailFrom = "senderemail"
 EmailTo = "youremail"
 
-#Mail must be pre-installed
+#Mailx must be pre-installed
 Command = " mail -s \"Logs of backups instances\" -r \"" + EmailFrom + "\" \"" + EmailTo + "\""
 os.system(Command)
