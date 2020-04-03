@@ -7,16 +7,14 @@ You can automate your backup process by using Cronn and running this piece of co
 
 Required modules 
 
-<code>
-import os
+os
   
-import subprocess
+subprocess
 
-import datetime
+datetime
 
-import time
+time
 
-</code>
 
 You will also need to install the "mailط" package for the "Report" section
 
