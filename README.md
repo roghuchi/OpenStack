@@ -1,5 +1,5 @@
-# Get backup of all instances in openstack with Python3
-Get backup of all instances in Open stack
+# Get backup of all instances in Openstack with Python3
+Get backup of all instances in Openstack
 
 You can automate your backup process by using Cron and running this piece of code
 
