@@ -37,6 +37,8 @@ for ID in ListOfInstances:
     output = str (output)
     output=output.replace("b'","")
     log = output + log + "\n"
+    
+    #If the number of your instances is high, backups may need to be delayed a bit
     time.sleep(3)
 
 
