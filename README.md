@@ -7,10 +7,10 @@ You can automate your backup process by using Cron and running this piece of cod
 
 Required modules 
 
-*os 
-*subprocess
-*datetime
-*time
+* os 
+* subprocess
+* datetime
+* time
 
 
 You will also need to install the "mailx" package for the "Report" section
