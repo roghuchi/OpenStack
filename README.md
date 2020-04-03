@@ -2,17 +2,17 @@
 Get backup of all instances in Open stack
 You can automate your backup process by using Cronn and running this piece of code
 
-#Requirements
+# Requirements
 Required modules 
 <code>
-import os
-import subprocess
-import datetime
-import time
+import os</br>
+import subprocess</br>
+import datetime</br>
+import time</br>
 </code>
 
 You will also need to install the "mailط" package for the "Report" section
 
-#Run
+# Run
 Use the following command to run:
 <code>python3 getbackups.py</code>
