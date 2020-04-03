@@ -16,7 +16,7 @@ datetime
 time
 
 
-You will also need to install the "mailط" package for the "Report" section
+You will also need to install the "mailx" package for the "Report" section
 
 # Run
 
